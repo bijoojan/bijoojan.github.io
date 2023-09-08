@@ -12,7 +12,6 @@ author_profile: false
 
 <font size="+2"><b>Telephone:</b> (562) 810-5051 </font><br> 
 
-<font size="+2"><b>Email:</b> bijantavakoli54@gmail.com </font>	<br>
-
+<font size="+2"><b>Email:</b> bijantavakoli54@gmail.com </font>	
 
 
