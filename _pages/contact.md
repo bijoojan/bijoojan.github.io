@@ -8,11 +8,12 @@ author_profile: false
 
 <hr>
 
-<h1 style="font-size:3<b>Telephone:</b>(562) 810-5051 </h1>
 
 
-<font size="+2"><b>Telephone:</b></font>
+<font size="+2"><b>Telephone:</b> (562) 810-5051 </font>	<br>
+<br>
 
+<font size="+2"><b>Email:</b> bijantavakoli54@gmail.com </font>	<br>
 
 
 
