@@ -2,10 +2,10 @@
 main:
   - title: "About Us"
     url: /About Us/
-  - title: "People"
-    url: /people/
-  - title: "Programs"
-    url: /programs/
+  - title: "Past Projects
+    url: /Past Projects/
+  - title: "Testimonials"
+    url: /Testimonials/
   - title: "Resources"
     url: /resources/
   - title: "Contact"

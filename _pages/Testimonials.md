@@ -1,5 +1,5 @@
 ---
 layout: single
-permalink: /people/
+permalink: /Testimonials/
 author_profile: false
 ---

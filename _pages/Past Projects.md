@@ -1,5 +1,5 @@
 ---
 layout: single
-permalink: /programs/
+permalink: /Past Projects/
 author_profile: false
 ---
