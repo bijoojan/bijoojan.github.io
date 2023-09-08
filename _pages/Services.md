@@ -1,5 +1,5 @@
 ---
 layout: single
-permalink: /resources/
+permalink: /Services/
 author_profile: false
 ---
