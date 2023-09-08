@@ -9,14 +9,10 @@ author_profile: false
 <hr>
 
 
-
-<font size="+3"><b>Telephone:</b> (562) 810-5051 </font><br> 
+<a href="tel:+5628105051" class="btn">Telephone</a>
 
 <font size="+3"><b>Email:</b> bijantavakoli54@gmail.com </font>	
 
-
-
-<a href="tel:+5628105051" class="btn">Call Us Now</a>
 
 
 
