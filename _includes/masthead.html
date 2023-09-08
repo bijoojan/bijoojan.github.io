@@ -18,6 +18,10 @@
             </li>
           {%- endfor -%}
         </ul>
+
+        <!-- Adding the "Call Us Now" button here -->
+        <a href="tel:+5628105051" class="btn call-btn">Call Us Now</a>
+
         {% if site.search == true %}
         <button class="search__toggle" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
