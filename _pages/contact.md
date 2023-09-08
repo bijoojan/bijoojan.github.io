@@ -8,7 +8,10 @@ author_profile: false
 
 <hr>
 
-<h1 style="font-size:3;color:firebrick;"><b>Telephone:</b>(562) 810-5051 </h1>
+<h1 style="font-size:3<b>Telephone:</b>(562) 810-5051 </h1>
+
+
+<font size="+2"><b>Telephone:</b></font>
 
 
 
