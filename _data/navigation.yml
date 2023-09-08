@@ -2,8 +2,8 @@
 main:
   - title: "About Us"
     url: /About Us/
-  - title: "Past Projects
-    url: /Past Projects/
+  - title: "Past Projects"
+    url: /Past Projects
   - title: "Testimonials"
     url: /Testimonials/
   - title: "Resources"
